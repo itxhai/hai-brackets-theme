@@ -1,0 +1,21 @@
+{
+    "title": "Hai Brackets Theme",
+    "name": "hai-brackets-theme",
+    "description": "Inspired by the One Dark Theme from Atom Editor",
+    "version": "1.0.0",
+    "author": "itxhai (https://github.com/itxhai)",
+    "homepage": "https://github.com/itxhai/hai-brackets-theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/itxhai/hai-brackets-theme.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=1.1.0"
+    },
+    "theme": {
+        "file": "main.css",
+        "dark": true,
+        "addModeClass": true
+    }
+}
