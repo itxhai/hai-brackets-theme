@@ -21,8 +21,8 @@ span.cm-error		{ color: red; }
 
 /* HTML, XML */
 
-.cm-m-xml.cm-tag.cm-bracket { color: #ABB2BF; }
-.cm-m-xml.cm-tag { color: #6195f4; }
+.cm-m-xml.cm-tag.cm-bracket { color: #D19A66; }
+.cm-m-xml.cm-tag { color: #D19A66; }
 .cm-m-xml.cm-attribute { color: #D19A66; }
 .cm-m-xml.cm-string { color: #98C379; }
 
